@@ -9,8 +9,8 @@
 
 ### Connect with me 📲
 
-[![LinkedIn](https://www.linkedin.com/in/seraj-omar-aa5946312?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw6UBeNjDRQuB2FarEt4aUQ%3D%3D)
-[![Codeforces](https://codeforces.com/profile/SerajOmar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seraj-omar-aa5946312/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/SerajOmar)
 
 
 <hr/>
