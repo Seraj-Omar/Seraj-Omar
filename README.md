@@ -9,7 +9,7 @@
 
 ### Connect with me 📲
 
-[![LinkedIn](https://www.linkedin.com/in/seraj-omar-aa5946312/)
+[![LinkedIn](https://www.linkedin.com/in/seraj-omar-aa5946312?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bw6UBeNjDRQuB2FarEt4aUQ%3D%3D)
 [![Codeforces](https://codeforces.com/profile/SerajOmar)
 
 
