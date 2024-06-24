@@ -1,11 +1,13 @@
 <div align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi,+I'm+Seraj-Nihad+Omar+.....">
+
+
+ 
 </div>
 <h3 align="left" >About me:</h3>
 
 - 🎓 I’m Computer System Engineering student at Palestine Technical University – Kadoorie
 - 📫 How to reach me **srag20062017@gmail.com**
-- 
 <hr/>
 
 ### Connect with me 📲
