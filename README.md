@@ -7,7 +7,7 @@
 <h3 align="left" >About me:</h3>
 
 - 🎓 I’m a Computer System Engineering student at Palestine Technical University – Kadoorie (PTUK)
-- 📫 How to reach me **srag20062017@gmail.com**
+- 📫 How to reach me **seraj.n.omar@gmail.com**
 <hr/>
 
 ### Connect with me 📲
