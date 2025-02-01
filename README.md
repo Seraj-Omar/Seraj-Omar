@@ -12,7 +12,7 @@
 
 ### Connect with me 📲
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seraj-omar-aa5946312/)
+![Static Badge](https://img.shields.io/badge/LINKEDIN-%230A66C2?style=for-the-badge&logo=inspire&logoColor=%230A66C2&logoSize=auto&labelColor=cyan&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fseraj-omar-aa5946312%2F)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Seraj-Omar/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/SerajOmar)
 
