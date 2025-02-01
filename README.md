@@ -20,7 +20,7 @@
 <hr/>
 
 #### Programming Languages 🖥️
-![C++](https://img.shields.io/badge/C%2B%2B-004080?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-61DBFB?style=for-the-badge&logo=C%2B%2B&logoColor=cyan&logoSize=auto&labelColor=black)
 ![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white)
 <div align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Yippeeeeeeeeeeeeeeeeeeee">
