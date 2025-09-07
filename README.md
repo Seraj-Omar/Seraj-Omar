@@ -1,9 +1,8 @@
-<div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?size=23&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi,+I'm+Seraj-Nihad+Omar+.....">
-
-
- 
-</div>
+<p align="center">
+  <a href="https://github.com/tubakhxn">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd%20Developer;Computer%20Systems%20Engineering;Problem%20Solver;Heba%20Mustafa&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+  </a>
+</p>
 <h3 align="left" >About me:</h3>
 
 - 🎓 I’m a Computer System Engineering student at Palestine Technical University – Kadoorie (PTUK)
