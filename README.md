@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tubakhxn">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd%20Developer;Computer%20Systems%20Engineering;Problem%20Solver;Heba%20Mustafa&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd%20Developer;Computer%20Systems%20Engineering;Problem%20Solver;Seraj%20Omar&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
 <h3 align="left" >About me:</h3>
